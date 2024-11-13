@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Xbox Series X",
+      "description": "Consola de última generación con 1TB de almacenamiento y una gran potencia para los juegos más actuales",
+      "image": "https://magazineclonerepub.azureedge.net/mcepub/1766/208600/image/0eb32da6-7452-4e94-8778-56bd58c81bb9.jpg",
+      "cost": 10299
+    },
+    {
+      "title": "Xbox Series S",
+      "description": "Consola de última generación con 512GB de almacenamiento, siendo la versión mas económica y menos potente de la Series X",
+      "image": "https://c2.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2020/09/microsoft-xbox-series-s-frandroid-2020.png?resize=350",
+      "cost": 6199
+    },
+    {
+      "title": "Xbox One X",
+      "description": "Esta consola de octava generación le brindará una gran experiencia para disfrutar de sus videojuegs favoritos",
+      "image": "https://i5.walmartimages.com/asr/511d38f2-34e9-48dc-984d-765204660a4d_1.997760674e34882b19de91015775da31.jpeg",
+      "cost": 6799
+    },
+    {
+      "title": "Xbox One S Slim",
+      "description": "Siendo de la octava generación proporciona un excelente medio de entretenimiento, más portable que la Xbox One S",
+      "image": "https://www.xboxygen.com/IMG/jpg/xboxones-4.jpg",
+      "cost": 5499
+    },
+    {
+      "title": "Xbox One S",
+      "description": "Con una mayor potencia de su versión anterior y modelo más moderno para una excelente tarde de juegos",
+      "image": "https://konzolrepair.hu/wp-content/uploads/2021/06/one-s-1-1030x1030.jpg",
+      "cost": 4999
+    },
+    {
+      "title": "Xbox One",
+      "description": "La primer consola de octava generación llegó para innovar y cambiar las próximas entregas de la marca",
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4334/4334012_sd.jpg",
+      "cost": 2250
+    },
+    {
+      "title": "Xbox 360 E",
+      "description": "La revolución del entretenimiento ha llegado con el Microsoft Xbox 360 E, una experiencia de juego que redefine los límites",
+      "image": "https://i5.walmartimages.com/asr/9d2a64b1-a5a1-458f-b926-4599ff45679d_1.fd3ef38d3fcfd29c6ff95c36a44e3583.jpeg",
+      "cost": 3299
+    },
+    {
+      "title": "Xbox 360 Premium",
+      "description": "Esta nueva versión de la Xbox 360 mejoró la calidad de sus componentes y se mostró como un gran avance en el mundo de las consolas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Xbox-360-Elite-Console-Set.png",
+      "cost": 3799
+    },
+    {
+      "title": "Xbox 360",
+      "description": " Esta consola se destacó por su amplia biblioteca de juegos y la gran cantidad de posibilidades que brindó a los usuarios",
+      "image": "https://i.blogs.es/d2b569/nueva-xbox360-xataka/450_1000.jpg",
+      "cost": 2799
+    },
+    {
+      "title": "Xbox",
+      "description": "La pionera de las consolas de la marca Microsoft, el inicio de una gran consola desde la Xbox Original",
+      "image": "https://i5.walmartimages.com/asr/9e947e75-1ca3-4007-8a9d-8d7ab383d6ce_3.149f515544d3f950c91638c70125d817.jpeg",
+      "cost": 2499
+    }
+
+]
